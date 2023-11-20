@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://AndriiBolsunovskyi.github.io/rsschool-cv/cv
