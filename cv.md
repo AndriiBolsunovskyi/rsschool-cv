@@ -10,7 +10,7 @@
 My goal is to gain new knowledge and skills for a new profession 
 ## Code Exemples
 ```
-let arr = [12, 1, 22, 21, 32, 23, 2, 15, 211, 91, 17, 65, 4, 11, 42, 60]
+let arr = [12, 1, 22, 21, 32, 23, 2, 15, 211, 91, 17, 65, 4, 11, 42]
 let arrNotNumber = arr.filter(item => item % 2 != 0);
 arrNotNumber.sort();
 let count = 0;
