@@ -2,7 +2,7 @@
 
 ## Contact
 * Location: Almaty, Qazaqstan Respublikasy
-* Phone: +77023064025
+* Phone: +7-702-306-4025
 * E-mail: nyft2@ukr.net
 * GitHub: [AndriiBolsunovskyi](https://github.com/AndriiBolsunovskyi)
 
