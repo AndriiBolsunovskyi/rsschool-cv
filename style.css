@@ -1,0 +1,7 @@
+.ds{
+    height: 50px;
+    width: 50px;
+    background-color:     #FFFFFF;
+    padding: 10px 15px 20px 25px;
+    position: relative; top: 20px;
+}
